@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Form/static/css/main.fdd3e55f.css",
-    "main.js": "/React-Form/static/js/main.9a435310.js",
+    "main.css": "/React-Form/static/css/main.c6214e0b.css",
+    "main.js": "/React-Form/static/js/main.99118545.js",
     "static/media/icon-advanced.svg": "/React-Form/static/media/icon-advanced.705bd10c4c1f688871d729633f0ca4ae.svg",
     "static/media/icon-thank-you.svg": "/React-Form/static/media/icon-thank-you.ee753f231cc5a5789b8eb922a96472c0.svg",
     "static/media/icon-pro.svg": "/React-Form/static/media/icon-pro.2e7e377da9c658d608624304a0f8dae6.svg",
     "index.html": "/React-Form/index.html",
     "static/media/icon-arcade.svg": "/React-Form/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
-    "main.fdd3e55f.css.map": "/React-Form/static/css/main.fdd3e55f.css.map",
-    "main.9a435310.js.map": "/React-Form/static/js/main.9a435310.js.map"
+    "main.c6214e0b.css.map": "/React-Form/static/css/main.c6214e0b.css.map",
+    "main.99118545.js.map": "/React-Form/static/js/main.99118545.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdd3e55f.css",
-    "static/js/main.9a435310.js"
+    "static/css/main.c6214e0b.css",
+    "static/js/main.99118545.js"
   ]
 }
