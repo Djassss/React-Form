@@ -101,9 +101,7 @@ const Step2 = () => {
 
            <div 
             onClick={() => handleBox(1)}
-            className={`select ${boxSelect[1] ? 'selected' : false}`} style={{
-            margin: '0 15px'
-            }}
+            className={`select ${boxSelect[1] ? 'selected' : false}`}
             >
               <img src={foto2}/>
               <h3>advanced</h3>
@@ -149,7 +147,7 @@ const Step3 = () => {
     newBoxSelect[index] = !newBoxSelect[index];
     setBoxSelect(newBoxSelect);
   };
-
+    
 
 
   return(
